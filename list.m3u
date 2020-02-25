@@ -258,7 +258,7 @@ http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台频道",华视(备)
 http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="公视三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="港台频道",公视三台
+#EXTINF:-1 tvg-id="6031" tvg-name="公视三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="港台频道",公视三台
 https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻
 https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/index.m3u8
@@ -308,6 +308,10 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://lss.line-scdn.net/cc_tw/p/live/hhLnKVZcGNmICXyhyO0orVWgwOgF8VXJlalB7ViEyaQcuUXViZwN4A3M2a1F8ASIxaVRwVyQ6b1t9R3FmZl0qByQ3d1N_HXA2Zkt4AHctb1F1AnE0ZlQ/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#欧美频道
+#EXTINF:-1 tvg-id="7144" tvg-name="FOX2" tvg-logo="https://pbs.twimg.com/profile_images/562309857697492992/K-_a7OSX_400x400.png" group-title="欧美频道",FOX2
+https://usb.bozztv.com/ssh101/BX784769/BX784769/index.m3u8
 
 #精彩4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
