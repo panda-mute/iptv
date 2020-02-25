@@ -258,6 +258,8 @@ http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台频道",华视(备)
 http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="6030" tvg-name="公视三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="港台频道",公视三台
+https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻
 https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/index.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻(备)
