@@ -36,8 +36,6 @@ http://39.135.34.27:18890/000000001000/1000000002000021303/1.m3u8?channel-id=yst
 http://39.135.34.27:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15音乐
 http://39.135.34.11:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv16.jpg" group-title="央视频道",CCTV-16奥运
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农业农村
 http://39.135.34.27:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV 4K[移动]
@@ -106,6 +104,10 @@ http://39.135.34.27:18890/000000001000/1000000002000009263/1.m3u8?channel-id=yst
 http://39.135.34.27:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="65" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
 http://39.135.34.27:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive
+
+#体育频道
+#EXTINF:-1 tvg-id="17" tvg-name="Olympic Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="体育频道",Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #CHC频道
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
