@@ -311,6 +311,10 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://lss.line-scdn.net/cc_tw/p/live/hhLnKVZcGNmICXyhyO0orVWgwOgF8VXJlalB7ViEyaQcuUXViZwN4A3M2a1F8ASIxaVRwVyQ6b1t9R3FmZl0qByQ3d1N_HXA2Zkt4AHctb1F1AnE0ZlQ/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台频道",翡翠台(代理)
+http://103.56.112.40/kds/agt.php?id=1
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台频道",无线新闻台(代理)
+http://103.56.112.40/kds/agt.php?id=9
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台频道",有线新闻台(代理)
 http://103.56.112.40/kds/agt.php?id=31
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2(代理)
