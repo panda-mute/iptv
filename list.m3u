@@ -205,6 +205,7 @@ http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="备份.央视频",安徽卫视
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
+
 #港台频道
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
@@ -310,6 +311,20 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://lss.line-scdn.net/cc_tw/p/live/hhLnKVZcGNmICXyhyO0orVWgwOgF8VXJlalB7ViEyaQcuUXViZwN4A3M2a1F8ASIxaVRwVyQ6b1t9R3FmZl0qByQ3d1N_HXA2Zkt4AHctb1F1AnE0ZlQ/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台频道",有线新闻台(代理)
+http://103.56.112.40/kds/agt.php?id=31
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2(代理)
+http://103.56.112.40/kds/agt.php?id=12
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台频道",明珠台(代理)
+http://103.56.112.40/kds/agt.php?id=13
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV(代理)
+http://103.56.112.40/kds/agt.php?id=8
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港台频道",TVB星河频道
+https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Drama Channel" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch102_170_122" group-title="港台频道",now剧集台
+http://47.91.200.241/iptv/mudu.php?id=289089
+#EXTINF:-1 tvg-id="" tvg-name="Now Baogu Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_170_122" group-title="港台频道",now爆谷台
+http://47.91.200.241/iptv/mudu.php?id=279140
 
 #欧美频道
 #EXTINF:-1 tvg-id="7144" tvg-name="FOX2" tvg-logo="https://pbs.twimg.com/profile_images/562309857697492992/K-_a7OSX_400x400.png" group-title="欧美频道",FOX2
