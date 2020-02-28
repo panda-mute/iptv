@@ -325,15 +325,8 @@ http://103.56.112.40/kds/agt.php?id=13
 http://103.56.112.40/kds/agt.php?id=8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港台频道",TVB星河频道
 https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Drama Channel" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch102_170_122" group-title="港台频道",now剧集台
-http://47.91.200.241/iptv/mudu.php?id=289089
-#EXTINF:-1 tvg-id="" tvg-name="Now Baogu Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_170_122" group-title="港台频道",now爆谷台
-http://47.91.200.241/iptv/mudu.php?id=279140
 #EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港台频道",now新闻台
 http://47.91.200.241/iptv/mudu.php?id=279140
-#EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港台频道",now新闻台(Token)
-https://ewcdn17.nowe.com/session/15-dd9fb748c88e5f8fac9d8d8580bbc/Content/HLS/LIVE/Channel(HLS_CH332)/Stream(04)/index.m3u8
-
 
 #欧美频道
 #EXTINF:-1 tvg-id="7144" tvg-name="FOX2" tvg-logo="https://pbs.twimg.com/profile_images/562309857697492992/K-_a7OSX_400x400.png" group-title="欧美频道",FOX2
