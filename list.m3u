@@ -1,4 +1,5 @@
 #EXTM3U
+#
 #央视频道
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
@@ -63,19 +64,15 @@ http://39.135.34.132:8080/000000001000/1000000001000011645/1.m3u8?channel-id=yst
 #EXTINF:-1 tvg-id="39" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视高清
 http://39.135.34.132:8080/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="40" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视高清
-http://39.135.34.132:8080/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=1106497909461255731&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
+http://39.135.34.132:8080/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="41" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视高清
 http://39.135.34.132:8080/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="42" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视高清
 http://39.135.34.132:8080/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="43" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视高清
-<<<<<<< HEAD
 http://39.135.34.132:8080/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive
-=======
-http://39.135.34.27:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive
 
 #卫视标清
->>>>>>> parent of f54ba6c... update
 #EXTINF:-1 tvg-id="50" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视频道",陕西卫视
@@ -107,13 +104,9 @@ http://39.135.34.132:8080/000000001000/1000000002000009263/1.m3u8?channel-id=yst
 #EXTINF:-1 tvg-id="64" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
 http://39.135.34.132:8080/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="65" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
-<<<<<<< HEAD
 http://39.135.34.132:8080/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive
-=======
-http://39.135.34.27:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive
 
 #体育频道
->>>>>>> parent of f54ba6c... update
 #EXTINF:-1 tvg-id="17" tvg-name="Olympic Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="体育频道",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
@@ -271,8 +264,6 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台频道",华视
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台频道",华视(备)
-http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="6031" tvg-name="公视三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="港台频道",公视三台
 https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻
