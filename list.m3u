@@ -320,7 +320,7 @@ https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 
 #欧美频道
-#EXTINF:-1 tvg-id="7144" tvg-name="FOX2" tvg-logo="https://pbs.twimg.com/profile_images/562309857697492992/K-_a7OSX_400x400.png" group-title="欧美频道",FOX2
+#EXTINF:-1 tvg-id="7144" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/200px-Rai_Italia_-_Logo_2017.svg.png" group-title="欧美频道",Rai Italia
 https://usb.bozztv.com/ssh101/BX784769/BX784769/index.m3u8
 
 #精彩4K
