@@ -322,6 +322,7 @@ http://103.56.112.40/kds/aigt.php?id=8
 https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now NEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港台频道",now新闻台
 http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="测试",翡翠台
 https://app.kds.tw/live/tvb1.php?id=jade&u=123456
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="测试",明珠台
@@ -330,6 +331,48 @@ https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
 https://app.kds.tw/live/tvb1.php?id=j2&u=123456
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="测试",无线新闻
 https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="测试",翡翠台
+http://hzyhjg.cc/cs/gat/fct.php
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="测试",TVB J2
+http://hzyhjg.cc/cs/gat/tvbj2.php
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="测试",TVB J2
+http://hzyhjg.cc/cs/gat/tvbj2-2.php
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="测试",无线新闻
+http://hzyhjg.cc/cs/gat/wxxw.php
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="测试",无线新闻
+http://hzyhjg.cc/cs/gat/wxxw-2.php
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="测试",明珠台
+http://hzyhjg.cc/cs/gat/mzt.php
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="测试",明珠台
+http://hzyhjg.cc/cs/gat/mzt-2.php
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="测试",viu tv
+http://hzyhjg.cc/cs/gat/viu tv.php
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="测试",无线财经
+http://hzyhjg.cc/cs/gat/wxcjzx.php
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="测试",有线新闻
+http://hzyhjg.cc/cs/gat/yxxw.php
+#EXTINF:-1 tvg-id="7239" tvg-name="香港603" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" group-title="测试",有线603
+http://hzyhjg.cc/cs/gat/yx603.php
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="测试",中天新闻
+http://hzyhjg.cc/cs/gat/ztxw.php
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="测试",东森新闻
+http://hzyhjg.cc/cs/gat/dsxw.php
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="测试",中视
+http://hzyhjg.cc/cs/gat/zs.php
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="测试",台视
+http://hzyhjg.cc/cs/gat/ts.php
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="测试",民视
+http://hzyhjg.cc/cs/gat/ms.php
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="测试",年代新闻
+http://hzyhjg.cc/cs/gat/ndxw.php
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="测试",非凡新闻
+http://hzyhjg.cc/cs/gat/ffxw.php
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="测试",三立台湾
+http://hzyhjg.cc/cs/gat/sltwt.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="测试",RHK31
+http://hzyhjg.cc/cs/gat/rhk31.php
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="测试",HBO HD
+http://hzyhjg.cc/cs/gat/hbo.php
 
 #欧美频道
 #EXTINF:-1 tvg-id="7144" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/200px-Rai_Italia_-_Logo_2017.svg.png" group-title="欧美频道",Rai Italia
