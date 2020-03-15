@@ -313,12 +313,14 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台频道",明珠台(备)
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台频道",无线新闻台(代理)
-http://hzyhjg.cc/cs/gat/wxxw-2.php
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台频道",有线新闻台(代理)
-http://hzyhjg.cc/cs/gat/yxxw.php
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2(代理)
-http://hzyhjg.cc/cs/gat/tvbj2-2.php
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台频道",无线新闻台
+http://pull.scphsd.com/live/fef85a40a9d6d51c376793660e726f14/playlist.m3u8?wsSession=7cc936abe75e5397a9fb3b52-158419725815914&wsIPSercert=3788641c8bff9126bc4184f7312d28cd&wsMonitor=0
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台频道",有线新闻台
+http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496/playlist.m3u8?wsSession=fda6586649733f99ae4ae800-158419742234045&wsIPSercert=3788641c8bff9126bc4184f7312d28cd&wsMonitor=0
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2
+http://pull.scphsd.com/live/f0438e011bfa485f4b32af7e92de4086/playlist.m3u8?wsSession=c32f09150c865d51c23c16b2-158419755804356&wsIPSercert=3788641c8bff9126bc4184f7312d28cd&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="NowNEWS" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="港澳台",now新闻台
+http://pull.scphsd.com/live/df7e62c6af19af13dc9147768729c82f/playlist.m3u8?wsSession=fda6586649733f99ae4ae800-158419736634292&wsIPSercert=3788641c8bff9126bc4184f7312d28cd&wsMonitor=0
 
 #精彩4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
