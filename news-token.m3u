@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="news",寰宇新闻台
-https://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=JRLhDl1jXJXO6nzkQgdHUA&expires=1584528433
+https://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=Eso-mSRJlMyiNOxCAvM9gA&expires=1584528790
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="news",寰宇新闻台湾台
-https://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/playlist.m3u8?token=rK6ZbFvnF4FdRZ5pKrNEPA&expires=1584528433
+https://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/playlist.m3u8?token=nHPFlbz4zlvHThK0o2YpGQ&expires=1584528790
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="news",now 直播台
-http://ewcdnsite06.nowe.com/session/09-3ba27c7a697ee532d01bbc616c932/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8?token=9618612ba5d4f948385835c1ab8a4ff8_1584532051
+http://ewcdnsite07.nowe.com/session/09-9dd8c84736aa5d74148bed45ce3e2/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8?token=b7e1a1ed1d113a958ac842e5bc158a08_1584532395
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="news",now 新闻台
-http://ewcdnsite06.nowe.com/session/09-45ef520916dd91cab13e7325ad4fd/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=fef45b0a85d15b1dc87af09cd89ec204_1584532065
+http://ewcdnsite04.nowe.com/session/09-e23e3ee81e49b621f1c11c779d96a/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=11a0fe8b57d4ffcd8d5ed3ea3ef3187f_1584532410
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="news",now 新闻台
-https://ewcdn08.nowe.com/session/15-22e33027cebeff3614a11930f5d5b/Content/HLS/LIVE/Channel(HLS_CH332)/index.m3u8?token=04c7e9efb63d2e8e19f79570620370ba_1584532067
+https://ewcdn13.nowe.com/session/15-b0132212b411faa2a3020e6c1bc2a/Content/HLS/LIVE/Channel(HLS_CH332)/index.m3u8?token=cf3aa6c3e13e70422e762dc58b11957e_1584532411
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="news",now Sports Prime
-https://ewcdn11.nowe.com/session/15-eeb10d4dcd3519979a5c25673b98a/Content/HLS/LIVE/Channel(HLS_CH630)/index.m3u8?token=31781247d2a41cf988dc6c66f82a909a_1584532068
+https://ewcdn08.nowe.com/session/15-c74b07f1a672905ef1cf88c9d1302/Content/HLS/LIVE/Channel(HLS_CH630)/index.m3u8?token=c0f33b4dc9d8509a90f891a1b754d5bf_1584532411
