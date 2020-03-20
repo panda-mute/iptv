@@ -219,6 +219,8 @@ http://220.158.149.26:8180/TV00000000000000000067@HHZT;LIVE
 #http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文HD
 http://qlive.fengshows.cn/live720p/PCC.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文HD[国内]
+http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文HD[福建移动]
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文HD[北京移动]
@@ -227,8 +229,6 @@ http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文SD(备1)
 http://125.210.152.21:9090/live/FHZW.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文SD(备2)
-http://liveali.ifeng.com/live/FHZW.flv
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯FHD
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
