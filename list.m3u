@@ -114,6 +114,12 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="体育频道",ESPN
 http://npse.brots.world/espn2.m3u8
 
+#新闻频道
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #CHC频道
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
