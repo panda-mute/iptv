@@ -118,7 +118,11 @@ http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
+http://84.22.33.254/unicast.cnn/video.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="News",FOX News
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 
 #CHC频道
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
