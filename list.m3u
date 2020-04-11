@@ -121,8 +121,13 @@ http://51.52.156.22:8888/http/004
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
 http://84.22.33.254/unicast.cnn/video.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN HD
+https://budgie.cdn.livenewschat.eu/hls/cnni_live/index.m3u8|Referer=https://livenewschat.eu/intl/
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="News",FOX News
-https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_0_2564000.m3u8
+#EXTINF:-1 tvg-logo="https://yournewsnet.com/wp-content/uploads/2018/11/NNLogo.jpg" group-title="News",News Net
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+
 
 #CHC频道
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
